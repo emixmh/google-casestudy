@@ -106,7 +106,8 @@ However, only 33 will be considered during analysis. Participant 2891001357 and 
 
 All datasets were added to the database as their own table. Tables with date-time information was merged into a new combined table for analysis. Tables that had integers representing qualitative data was updated based on the data dictionary e.g.  sleep values with "1" were updated to "asleep."
 
-All code is in the [SQL file](https://github.com/emixmh/bellabeat-google-casestudy/blob/main/20240601.sql).
+[SQL file](https://github.com/emixmh/bellabeat-google-casestudy/blob/main/20240601.sql)  
+[data dictionary for SQL](https://github.com/emixmh/bellabeat-google-casestudy/blob/main/data-dictionary.md)
 ## 4| ANALYZE <a name="analyze"></a>
 Insights
 - activity remains relatively constant between weekdays
