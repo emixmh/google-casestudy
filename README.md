@@ -109,8 +109,10 @@ All datasets were added to the database as their own table. Tables with date-tim
 [SQL file](https://github.com/emixmh/bellabeat-google-casestudy/blob/main/20240601.sql)  
 [data dictionary for SQL](https://github.com/emixmh/bellabeat-google-casestudy/blob/main/data-dictionary.md)
 ## 4| ANALYZE <a name="analyze"></a>
+Percentage of total days and days with a step count greater than 0 was calculated for each user. Users who had a step count more than 50% of their tracked days was typed as an "active" user. Users who had a step count less than 50% of their tracked days was typed as a "sedentary" user.
+
 Insights
-- activity remains relatively constant between weekdays
+- activity remains relatively constant between weekdays and user types
 - active users have a higher step count and spend more time in elevated intensities and MET scores than sedentary users, although the impact on calories burned is extremely minimal
 - active users have a higher chance of tracking more metrics (e.g. sleep, weight, heart rate) compared to sedentary users
 ## SHARE <a name="share"></a>
