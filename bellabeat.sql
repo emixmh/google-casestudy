@@ -1,8 +1,6 @@
 -- =========================
 --
--- Project: Google Certification Capstone Project
--- Dataset: Fitbit Fitness Tracker Data https://www.kaggle.com/datasets/arashnic/fitbit 
--- Language: PostgreSQL
+-- Dataset: https://www.kaggle.com/datasets/arashnic/fitbit 
 --
 -- =========================
 
