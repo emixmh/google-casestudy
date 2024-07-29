@@ -1,6 +1,4 @@
 # Google Capstone Project: Bellabeat
-Author: Emily Hampton  
-Date: 2024-06-01
 
 **Overview**  
 This case study is part of Google's Data Analytics Certificate capstone project.
